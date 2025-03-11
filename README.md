@@ -2,6 +2,10 @@
 
 Geo Explorer is a **React 19** based web application that allows users to explore detailed information about countries around the world. Users can view countries, filter them by continent, and access specific information about each country, such as population, capital, and more. The app also provides a responsive navigation bar, dynamic routes, and an engaging hero section.
 
+## Check Live Site
+ 
+ - [Live Preview](https://geo-explorer-sagnik.netlify.app/)
+
 ## Features
 
 - **Dynamic Country Info**: Users can view country details like population, capital, and interesting facts.
