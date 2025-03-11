@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Seoraphuli, West Bengal"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+91-9038910298"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "sagnikk2852@gmail.com"
+    }
+  ]

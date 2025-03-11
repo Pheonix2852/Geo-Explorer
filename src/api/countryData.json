@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "interestingFact": "Australia is the only country that is also a continent."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 213993437,
+      "interestingFact": "Brazil is home to the Amazon rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38005238,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 4,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125584838,
+      "interestingFact": "Japan is made up of over 6,800 islands."
+    },
+    {
+      "id": 5,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1393409038,
+      "interestingFact": "India is the birthplace of four major world religions."
+    },
+    {
+      "id": 6,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67391582,
+      "interestingFact": "The Eiffel Tower in Paris was originally intended to be a temporary structure."
+    },
+    {
+      "id": 7,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "interestingFact": "Germany is the home of the world’s first printed book."
+    },
+    {
+      "id": 8,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "interestingFact": "South Africa has three capital cities, which is unique."
+    },
+    {
+      "id": 9,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128933000,
+      "interestingFact": "Mexico is home to the world’s largest pyramid, the Great Pyramid of Cholula."
+    },
+    {
+      "id": 10,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "interestingFact": "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland."
+    },
+    {
+      "id": 11,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 60245946,
+      "interestingFact": "Italy is home to the world’s first university, the University of Bologna, established in 1088."
+    },
+    {
+      "id": 12,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 91250000,
+      "interestingFact": "Egypt is home to the ancient pyramids, some of the Seven Wonders of the Ancient World."
+    }
+  ]
+  
